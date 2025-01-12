@@ -30,8 +30,6 @@ Get an introduction to the Kotlin programming language, its key features, histor
 - [Benefits of Kotlin](https://blog.jetbrains.com/kotlin/)
 - [Why Kotlin is a Great Choice for Android Development](https://developer.android.com/kotlin)
 
-### Downloads
-[Download Chapter 1: Introduction to Kotlin](#)
 
 ### Exercise:
 Write a simple Kotlin program that prints "Hello, World!" to the console.
@@ -48,8 +46,6 @@ Set up the necessary tools to start developing in Kotlin, including IntelliJ IDE
 - [Setting Up Android Studio for Kotlin](https://developer.android.com/studio)
 - [Configuring Kotlin in Your Project](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Development Environment](#)
 
 ### Environment Setup Instructions:
 - **Windows:** Follow the [Windows installation guide](https://kotlinlang.org/docs/tutorials/installation.html#windows).
@@ -72,8 +68,6 @@ Learn the basic syntax of Kotlin, including variables, functions, and control fl
 - [Functions in Kotlin](https://kotlinlang.org/docs/functions.html)
 - [Control Flow Statements: if, when, loops](https://kotlinlang.org/docs/control-flow.html)
 
-### Downloads
-[Download Chapter 3: Kotlin Basics](#)
 
 ### Exercise:
 Write a Kotlin program that prints the sum of all odd numbers between 1 and 100.
@@ -90,8 +84,6 @@ Understand the advanced control flow mechanisms in Kotlin, including function pa
 - [Kotlin Functions with Parameters](https://kotlinlang.org/docs/functions.html)
 - [Higher-order Functions](https://kotlinlang.org/docs/lambdas.html)
   
-### Downloads
-[Download Chapter 4: Control Flow and Functions in Kotlin](#)
 
 ### Exercise:
 Create a Kotlin function that calculates the Fibonacci sequence up to a given number using recursion.
@@ -108,8 +100,6 @@ Master Kotlin’s collection framework and how to work with Lists, Maps, Sets, a
 - [Maps and Sets in Kotlin](https://kotlinlang.org/docs/collections-overview.html#maps)
 - [Filters and Transformations](https://kotlinlang.org/docs/collections.html)
 
-### Downloads
-[Download Chapter 5: Working with Collections](#)
 
 ### Exercise:
 Write a Kotlin program that filters out all even numbers from a list of integers.
@@ -126,8 +116,6 @@ Kotlin provides powerful features to handle null values safely and avoids common
 - [Safe Calls with `?.` and the Elvis Operator `?:`](https://kotlinlang.org/docs/null-safety.html#safe-calls)
 - [Non-Nullable Types](https://kotlinlang.org/docs/null-safety.html#types)
 
-### Downloads
-[Download Chapter 6: Null Safety in Kotlin](#)
 
 ### Exercise:
 Write a Kotlin program that performs null checks before attempting to access data in a potentially nullable object.
@@ -144,8 +132,6 @@ Explore object-oriented concepts like classes, objects, inheritance, and polymor
 - [Inheritance and Interfaces](https://kotlinlang.org/docs/inheritance.html)
 - [Polymorphism in Kotlin](https://kotlinlang.org/docs/classes.html#polymorphism)
 
-### Downloads
-[Download Chapter 7: OOP in Kotlin](#)
 
 ### Exercise:
 Create a class hierarchy for different types of vehicles (Car, Bike, Truck) and implement basic functionality like `start()` and `stop()` methods.
@@ -162,8 +148,6 @@ Kotlin’s coroutines allow for efficient concurrent programming. Learn how to u
 - [Creating and Using Coroutines](https://kotlinlang.org/docs/coroutines-basics.html)
 - [Concurrency and Parallelism](https://kotlinlang.org/docs/coroutines-basics.html)
 
-### Downloads
-[Download Chapter 8: Kotlin Coroutines and Concurrency](#)
 
 ### Exercise:
 Write a Kotlin program that uses coroutines to download content from multiple URLs concurrently.
@@ -179,8 +163,6 @@ Kotlin allows you to add functions to existing classes with extension functions,
 - [Creating Extension Functions](https://kotlinlang.org/docs/extensions.html)
 - [Usage of Extension Functions with Classes](https://kotlinlang.org/docs/extensions.html#extension-functions)
   
-### Downloads
-[Download Chapter 9: Extension Functions in Kotlin](#)
 
 ### Exercise:
 Create an extension function that adds a `reverseWords` function to the `String` class to reverse the words in a given sentence.
@@ -197,8 +179,6 @@ Kotlin is a first-class language for Android development. Learn how to use Kotli
 - [Building UI Components with Kotlin in Android](https://developer.android.com/kotlin/overview)
 - [Android Architecture Components in Kotlin](https://developer.android.com/topic/libraries/architecture)
 
-### Downloads
-[Download Chapter 10: Kotlin for Android Development](#)
 
 ### Exercise:
 Build a simple "To-Do List" Android app using Kotlin.
@@ -215,8 +195,6 @@ Learn how to use Kotlin with various databases like SQLite, Firebase, and Room f
 - [Room Database in Kotlin](https://developer.android.com/training/data-storage/room)
 - [Firebase Integration](https://firebase.google.com/docs/android/setup)
 
-### Downloads
-[Download Chapter 11: Working with Databases in Kotlin](#)
 
 ### Exercise:
 Create a Kotlin app with SQLite integration to store and display user records.
@@ -233,8 +211,6 @@ Learn how to write tests for Kotlin code to ensure its reliability and functiona
 - [Mockito for Kotlin](https://mockk.io/)
 - [Using JUnit and Kotlin Test](https://kotlinlang.org/docs/unit-testing.html)
 
-### Downloads
-[Download Chapter 12: Testing in Kotlin](#)
 
 ### Exercise:
 Write unit tests to validate the functionality of a basic Kotlin calculator.
@@ -252,3 +228,16 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding with Kotlin! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
